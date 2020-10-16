@@ -21,7 +21,7 @@
     "ethereum-blockies-base64": "^1.0.2",
     "express": "^4.17.1",
     "identicon.js": "^2.3.3",
-    "kbyte": "0.0.5",
+    "kbyte": "git+https://github.com/tarmo888/kbyte.git#test-new-library",
     "lodash": "^4.17.20",
     "marked": "^0.7.0",
     "moment": "^2.29.1",
