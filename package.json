@@ -25,7 +25,7 @@
     "lodash": "^4.17.20",
     "marked": "^0.7.0",
     "moment": "^2.29.1",
-    "obyte": "git+https://github.com/tarmo888/obyte.js.git#enable-light-node-to-sleep",
+    "obyte": "git+https://github.com/tarmo888/obyte.js.git#test-new-library",
     "octicons": "^7.4.0",
     "pg": "^7.18.2",
     "pg-promise": "^8.7.5",
