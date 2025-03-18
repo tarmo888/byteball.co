@@ -333,13 +333,13 @@
   {
     "address": "JBW7HT5CRBSF7J7RD26AYLQG6GZDPFPS",
     "profile": {
-      "oracle_name": "Telegram attestor"
+      "attestor_name": "Telegram attestor"
     }
   },
   {
     "address": "5KM36CFPBD2QJLVD65PHZG34WEM4RPY2",
     "profile": {
-      "oracle_name": "Discord attestor"
+      "attestor_name": "Discord attestor"
     }
   }
 ]
