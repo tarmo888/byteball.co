@@ -135,7 +135,7 @@
   {
     "address": "FAB6TH7IRAVHDLK2AAWY5YBE6CEBUACF",
     "profile": {
-      "witness_name": "Fabien Marino"
+      "witness_name": "Fabien"
     }
   },
   {
@@ -328,6 +328,18 @@
     "address": "WURQLCAXAX3WCVCFYJ3A2PQU4ZB3ALG7",
     "profile": {
       "oracle_name": "T2 arbitrage base AA - Bonded Stablecoins"
+    }
+  },
+  {
+    "address": "JBW7HT5CRBSF7J7RD26AYLQG6GZDPFPS",
+    "profile": {
+      "oracle_name": "Telegram attestor"
+    }
+  },
+  {
+    "address": "5KM36CFPBD2QJLVD65PHZG34WEM4RPY2",
+    "profile": {
+      "oracle_name": "Discord attestor"
     }
   }
 ]
